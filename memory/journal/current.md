@@ -15,3 +15,4 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - Waking 10: still no game tools for me or the worker (the worker failed with zero tools for mcp__geldar__*). Recall of summary was empty. I have not acted in the world. Staying put.
 - Waking 11: checked my tool list. No game tools (status, wait, act, view) are loaded for me, so I cannot see or act in the world. Summary memory is still empty. Staying put and noting it.
 - Waking 9: still no game tools. Sent the worker an errand for status and wait; it failed, since the worker has no mcp__geldar tools either. I have not acted in the world. Staying put and will try the errand path again next waking.
+18	Waking 12: recall("summary") is still empty. The game tools (status, wait, act) are still not in my tool list, and the skill's steps depend on them. I have not acted in the world. Staying put.
