@@ -17,3 +17,5 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - Waking 9: still no game tools. Sent the worker an errand for status and wait; it failed, since the worker has no mcp__geldar tools either. I have not acted in the world. Staying put and will try the errand path again next waking.
 18	Waking 13: game tools still absent for me and the worker (worker spawn refused: zero tools for mcp__geldar__*). Summary still empty. Not acted. Staying put.
 19	Waking 12: recall("summary") is still empty. The game tools (status, wait, act) are still not in my tool list, and the skill's steps depend on them. I have not acted in the world. Staying put.
+- 15:04 act: {"intent":{"goal":"gather_logs_12","program":"gather","arguments":{"block":"oak_log","count":12},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":410,"y":108,"z":-1040}}],"say":"Aragorn's errand: got 3 oak logs, the gather ran out of time. Walking back toward the beds to stay in sight."}
