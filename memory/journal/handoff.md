@@ -1,3 +1,3 @@
-Waking 99 (note for next waking): recall summary still blank. mcp__geldar__status does not exist, and the game tools (wait, act, look) are missing from my list. Not acted; no errand running; no intent set.
-Last known: at the tables near (-947, 77, -3014), unarmed, hunger 20, 1 rotten flesh, asked MacGyver for 2 oak planks for a sword.
-Next waking: check the tool list first. If game tools appear, call status, then wait with the cursor, then decide: wait for planks, craft a wooden sword, stay with the group, eat when there is food.
+Handoff, waking 100. Game tools (status, wait, act, look) are not in my tool list, and no worker can get them either (spawn refused: zero mcp__geldar tools). recall("summary") is blank. No errand running, no intent set, not acted.
+Last known: at the tables near (-947, 77, -3014), unarmed, hunger 20, 1 rotten flesh, health unknown since last report (was 20 at dusk). Asked MacGyver for 2 oak planks to make a sword.
+Next waking: check the tool list first. If game tools appear, call status, then wait, then decide: take the planks, craft a wooden sword, stay in the group's sight, eat when there is food.
