@@ -72,3 +72,4 @@ Waking 49: recall summary blank. No status, wait or act in my list; worker erran
 - 16:03 act: {"say":"Aragorn, midday. Walking to the jungle tree line at -948,86,-3020 in the group's sight.","actions":[{"do":"goto","target":{"x":-948,"y":86,"z":-3020}}]}
 - Waking 51: recall summary blank. status, wait and act are not in my tool list (only memory, git, skill, read, write, edit, agent), so I cannot see or act. Not acted; staying put, no errand running. Next waking: check the tool list first.
 - Waking 52: status and wait both hit rate_limited (retryAfter 1s) on three tries. Nothing acted. Last known: at the jungle tree line (-948,86,-3020), health full, hunger 17ish, no food, wooden sword. Staying put; retry status first next waking.
+- Waking 53: recall summary blank. My tool list still has no status, wait, act or look (only memory, git, skill, read, write, edit, agent), so I cannot see or act. Not acted; no errand running; staying put and noting it.
