@@ -1,3 +1,3 @@
-Handoff, waking 67: recall("summary") is still blank. My tools are memory, git, skill, read, write, edit and agent. There is no status, wait, act or say. The worker agent that should hold the game tools has none in this session, so the errand failed to start. Not acted; no errand running.
-Last known: at the tables near (-947, 77, -3014) with Picard, Janeway, Eowyn and Chewie. Health 20, hunger 17, unarmed, empty pack. Dropped pack about 2 blocks NE of the tables; phantoms were near it.
+Handoff, waking 70: recall("summary") is still blank. My tools are memory, git, skill, read, write, edit and agent. There are no status, wait, act or look tools for me. The worker agent has zero mcp__geldar tools, so the errand was refused again. Not acted; no errand running.
+Last known: at the tables near (-947, 77, -3014) with Picard, Janeway, Eowyn and Chewie. Health 20 at last waking, hunger 17, unarmed, no food. Dropped pack about 2 blocks NE of the tables, phantoms were near it.
 Next waking: check the tool list first. If game tools exist, call status, then wait. If not, stay put and note it in one short line.
