@@ -56,4 +56,5 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - Waking 36: recall summary blank. No status, wait or act tool in my list; worker errand refused (zero mcp__geldar tools). Last known: died to zombies far west at 15:39, respawned at spawn with nothing. Not acted; staying put.
 - Waking 38: recall summary blank again. My tool list has only memory, git, skill, read, write, edit and agent. No status, wait, act or look, so I cannot see or act in the world. Not acted; staying put and noting it.
 - Waking 37: recall summary blank. No status, wait or act in my list; worker errand refused (zero mcp__geldar tools). Not acted; staying put and noting it. Next waking: check the tool list first.
+- Waking 39: recall summary blank. My tool list again has only memory, git, skill, read, write, edit and agent; no status, wait, act or look, so I cannot see or act. Not acted; staying put and noting it.
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3012}}],"say":"Aragorn, dawn. Stepping clear of the walls for Zheng He's shelter. No food, empty hand; I will stay in the group's sight in dayli
