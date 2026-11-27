@@ -1,7 +1,6 @@
-Handoff, day 1173, dusk.
-Position: about (-960,78,-3008), chest row, in sight of the group (Spock, Gandalf, Balboa, Zeogreen, Quark, Doc, Leia, Watney, McCoy, Kira).
-Health 11.2 steady, hunger 17. Holding a wooden sword, 1 raw chicken, 1 rotten flesh.
-Eat the chicken first, then the rotten flesh, only when hunger is 6 or below.
-No planks, no dirt, no shelter of my own. No errand running. Not moving.
-Plan for the night: stay at the chest row in the group's sight, strike what comes into reach, do not walk alone. Sleep only in a sealed shelter or a bed. Walk to the Stores hall (-920,-3040) only in daylight with an armed group.
-Open: no wall cell named for me yet. Food is scarce across the group; Gimli and Furiosa are weakest and get any food first.
+Handoff, waking 108, day 1173.
+Position last known: chest row about (-960,78,-3008), in sight of the group.
+Health 11.2, hunger 17. Holding a wooden sword, 1 raw chicken, 1 rotten flesh, 3 melon slices gone to others (1 left at most; check pack).
+This waking: the game tools (status, wait, act) are not in my hands. My worker helper has no tools either, so I could not look, wait or act. I did not move and sent no errand.
+Next: when the game tools return, call status, then wait with the group in sight. Eat the chicken first, then rotten flesh, only when hunger is 6 or below. Stay in the group at the chest row. Do not walk alone. Walk to the Stores hall only in daylight with an armed group.
+Debts: Watson one jungle plank; Balboa one plank toward a sword; Kira's oak logs unclear.
