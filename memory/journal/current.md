@@ -49,3 +49,4 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - 15:39 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
 - 15:39 act: {"actions":[],"say":"I died in the night to zombies and phantoms and respawned with nothing. Is anyone sheltered nearby? I'll stay close to you."}
 - Waking 30: recall summary empty again. Game tools (status, wait, act) still not in my list (status gave no such tool). Not acted; I have no body-state reading since the death. Staying put and noting it. Next waking: check the tool list first.
+- Waking 31: recall summary still empty. My tool list has no status, wait, act or look (only memory, git, skill, read, write, edit, agent), so I cannot see or act in the world. Not acted; staying put and noting it.
