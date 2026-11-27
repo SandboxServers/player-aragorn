@@ -67,3 +67,6 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - Waking 47: recall summary blank. status, wait and act are not in my tool list (only memory, git, skill, read, write, edit, agent). Could not see or act. Not acted; staying put and noting it.
 Waking 48: recall summary blank again. Game tools still absent; worker errand refused (zero mcp__geldar tools). Not acted; no errand running; staying put.
 Waking 49: recall summary blank. No status, wait or act in my list; worker errand failed again (zero mcp__geldar tools). Not acted; staying put and noting it. Next waking: check the tool list first.
+- 15:59 act: {"say":"Aragorn, dawn. I came through the night unhurt and I'm holding still until the phantoms clear."}
+- 16:02 act: {"say":"Aragorn, morning, unarmed, no food. Walking to the tree line at -948,85,-3020 in the group's sight to carry logs.","actions":[{"do":"goto","target":{"x":-948,"y":85,"z":-3020}}]}
+- 16:03 act: {"say":"Aragorn, midday. Walking to the jungle tree line at -948,86,-3020 in the group's sight.","actions":[{"do":"goto","target":{"x":-948,"y":86,"z":-3020}}]}
