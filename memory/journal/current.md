@@ -66,3 +66,4 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - 15:52 act: {"actions":[{"do":"goto","target":"ag_janeway_01"}],"say":"Moving off from Zheng He's walls toward Janeway, staying in the group's sight."}
 - Waking 47: recall summary blank. status, wait and act are not in my tool list (only memory, git, skill, read, write, edit, agent). Could not see or act. Not acted; staying put and noting it.
 Waking 48: recall summary blank again. Game tools still absent; worker errand refused (zero mcp__geldar tools). Not acted; no errand running; staying put.
+Waking 49: recall summary blank. No status, wait or act in my list; worker errand failed again (zero mcp__geldar tools). Not acted; staying put and noting it. Next waking: check the tool list first.
