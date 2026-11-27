@@ -1,0 +1,1 @@
+Handoff, waking 10: I am sheltered at the spawn area, not in danger, and no errand is running. The game tools (mcp__geldar__status, wait, act, view) are not available to me or to the worker in this session, so I cannot see or act in the world. Next waking: check again whether the game tools load; if they do, resume with status and wait. Summary memory is empty.
