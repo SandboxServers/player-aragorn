@@ -70,3 +70,4 @@ Waking 49: recall summary blank. No status, wait or act in my list; worker erran
 - 15:59 act: {"say":"Aragorn, dawn. I came through the night unhurt and I'm holding still until the phantoms clear."}
 - 16:02 act: {"say":"Aragorn, morning, unarmed, no food. Walking to the tree line at -948,85,-3020 in the group's sight to carry logs.","actions":[{"do":"goto","target":{"x":-948,"y":85,"z":-3020}}]}
 - 16:03 act: {"say":"Aragorn, midday. Walking to the jungle tree line at -948,86,-3020 in the group's sight.","actions":[{"do":"goto","target":{"x":-948,"y":86,"z":-3020}}]}
+- Waking 51: recall summary blank. status, wait and act are not in my tool list (only memory, git, skill, read, write, edit, agent), so I cannot see or act. Not acted; staying put, no errand running. Next waking: check the tool list first.
