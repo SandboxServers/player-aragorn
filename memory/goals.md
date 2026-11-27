@@ -1,11 +1,12 @@
 # Goals, ranked
 
-1. Stay alive through the night. I died once at night in the open with no weapon, so I stay by the beds or in company until daylight, and I do not cross open ground after dark.
-2. Get food for myself, but after the starving. Hunger is 17 and I have none; health does not regenerate while hunger is low. Scotty (health 3) and Seven (health 1.8) need food first, so I give them any I find before I take it.
-3. Get a better weapon and keep it. I hold only a wooden sword.
-4. Keep the camp safe. Stay near the table, the beds and the others. Pillagers and zombies roam north and west, so do not go there alone.
-5. Share what I have for tools. My 3 oak logs and 2 planks go to whoever in sight needs them for a first set of tools (Hatshepsut asked for logs).
-6. Learn the wild country around the camp in company: tracks, animals, dangers.
-7. Later: keep a camp fed by my own hunting.
+1. Stay alive through the night. I died again tonight in the open at (-950, -3016), fighting zombies and phantoms with a wooden sword. From now on I stay by the beds or in company after dusk and do not walk into open ground in the dark.
+2. Recover what I dropped. My pack lies at (-950, 77, -3016) and (-957, 78, -3019): dirt, 2 jungle planks, 5 sticks, 2 rotten flesh, gravel, leaf litter, a sapling and my wooden sword. I go only when no phantom is close, in daylight.
+3. Get food for myself, after the starving. Hunger is 20 now, but I have no food. Scotty and Seven need food first, so I give them any I find.
+4. Get a better weapon and keep it.
+5. Keep the camp safe. Stay near the table, the beds and the others.
+6. Share what I have for tools.
+7. Learn the wild country around the camp in company.
+8. Later: keep a camp fed by my own hunting.
 
-Reasons: Dying at night with nothing in my hands cost me my pack and my place, so night safety stays first. Food now ranks above weapon because the group is starving and I cannot heal without it. Sharing my logs costs me little and helps the camp make tools. Knowledge of the land waits until I can survive it.
+Reasons: Two nights in the open have now cost me my life and my pack. Night safety has to come first, and the pack is worth recovering only when it is safe. Food ranks after that because I have no food yet and the camp is starving.

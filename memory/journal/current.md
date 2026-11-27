@@ -41,3 +41,10 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Aragorn, night at the beds with the group. Unarmed except a wooden sword, no food. I will hold here until light."}
 - 15:32 act: {"actions":[{"do":"give","to":"ag_kira_01","item":"oak_log","count":3}],"say":"Kira, my three oak logs for tools."}
 - Waking 28: recall summary empty. No status, wait, act or view in my tool list (only memory, git, skill, read, write, edit, agent), so I cannot see or act in the world. Not acted; staying put and noting it. Next waking: check the tool list first.
+- 15:34 act: {"say":"Aragorn here, at the white bed in the group's sight. Empty-handed except a wooden sword, hunger 17. I hold here through the night and go out for food at first light."}
+- 15:38 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Aragorn, I am far west at night, away from the beds, with a zombie on me. Fighting it with my wooden sword."}
+- 15:38 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 15:39 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 15:39 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Aragorn, two zombies on me, health 7. Fighting them with my wooden sword."}
+- 15:39 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 15:39 act: {"actions":[],"say":"I died in the night to zombies and phantoms and respawned with nothing. Is anyone sheltered nearby? I'll stay close to you."}
