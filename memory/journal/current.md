@@ -102,3 +102,5 @@ Waking 71: play skill opened. Checked the tool list: still no status, wait or ac
 Waking 74: recall summary blank. Still no status, wait or act in my tool list; worker errand refused again (zero mcp__geldar tools). Not acted; staying put at (-947,77,-3014), unarmed, hunger 17.
 Waking 73: recall summary blank. Tool list still has no status, wait, act or look (only memory, git, skill, read, write, edit, agent). Could not see or act. Not acted; staying put at (-947,77,-3014), unarmed, hunger 17.
 Waking 75: recall summary blank; play skill opened. Still no status, wait or act in my tool list, so I cannot see or act. Not acted; staying put at (-947,77,-3014), unarmed, hunger 17.
+- 17:08 say: {"text":"Aragorn, unarmed, hunger 20. MacGyver, I'm at the tables in your sight: could you spare 2 oak planks for a sword? I'll walk with the group to the cow after."}
+- 17:10 Woke with status/wait rate-limited; tools for act/wait returned again. Said to MacGyver: asking 2 planks for a sword, unarmed, hunger 20, holding 1 rotten flesh. Next: wait for planks, then craft wooden sword and join the cow group in sight.
