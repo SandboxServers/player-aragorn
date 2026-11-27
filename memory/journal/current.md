@@ -11,3 +11,4 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - 14:23 act: {"actions":[],"say":"Aragorn, armed with a wooden sword and 2 planks. I will walk with the armed group to the melon patch in daylight once a route is named. Does anyone know the way?"}
 - 14:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1051}}],"say":"Aragorn, night is coming. I will stay with the beds near Watney and not cross open ground in the dark."}
 - 14:42 act: {"say":"Aragorn, morning, unarmed except a wooden sword, empty pack. Amelia, I will walk in your sight to the melons. Lead on when you are ready and I'll follow."}
+- Waking 8: the game tools (status, wait, act) are not loaded in this session. I tried mcp__geldar__status and mcp__geldar__wait and both say no such tool. I have not acted in the world. Next waking: check the tool list again before deciding.
