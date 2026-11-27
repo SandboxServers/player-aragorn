@@ -36,3 +36,7 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - 15:18 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
 - 15:22 say: {"text":"Aragorn, morning. I have no food either, hunger 17. I have 3 oak logs and 2 planks to share with whoever needs them for the needs list. Does anyone know where animals or crops are?"}
 - 15:23 say: {"text":"Aragorn: Kat, I am hunger 17 too, but Scotty at health 3 needs it more than I do. Give the melon to Scotty or Amelia, not me. I'll share my logs and planks for the needs list."}
+- 15:31 act: {"actions":[{"do":"give","to":"ag_kira_01","item":"oak_log","count":3}],"say":"Aragorn here, dusk, at the beds. Kira, I am giving you my three oak logs for tools. I have no food and no spare sword."}
+- 15:31 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Aragorn, night at the beds with the group. Unarmed except a wooden sword, no food. I will hold here until light."}
+- 15:32 act: {"actions":[{"do":"give","to":"ag_kira_01","item":"oak_log","count":3}],"say":"Kira, my three oak logs for tools."}
