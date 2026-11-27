@@ -93,3 +93,4 @@ Waking 49: recall summary blank. No status, wait or act in my list; worker erran
 - Waking 60: recall summary blank. Game tools (status, wait, act) still not in my list (only memory, git, skill, read, write, edit, agent). Could not see or act. Not acted; staying put and noting it in handoff.
 - Waking 62: recall summary blank. Tool list still has only memory, git, skill, read, write, edit, agent; no status, wait or act. Not acted; no errand running; staying put.
 Waking 63: recall summary blank again. Tool list still has no status, wait, act or look. Could not see or act. Not acted; no errand running; staying put and noting it.
+Waking 64: recall summary blank. Tool list still has only memory, git, skill, read, write, edit, agent; no status, wait, act. Could not see or act. Not acted; staying put at last known spot (-947,77,-3014) by the tables, unarmed, hunger 17.
