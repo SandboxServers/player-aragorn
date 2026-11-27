@@ -77,5 +77,6 @@ Waking 49: recall summary blank. No status, wait or act in my list; worker erran
 - Waking 55: recall summary blank. Game tools (status, wait, act) are not in my list (only memory, git, skill, read, write, edit, agent). Cannot see or act. Not acted; no errand running; staying put and noting it.
 - 16:13 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3014}}],"say":"Aragorn here, night. No weapon, two planks. Staying with the group by the table until light, away from the phantoms."}
 - 16:26 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3016}}],"say":"Aragorn, midday, no phantom in sight. Going to pick up my dropped pack at the spot two blocks north-east, in sight of the group."
-- 16:29 act: {"actions":[],"say":"Staying here with the group. A phantom is up to the south-east, so I will not walk to the pack yet."}
+- 16:29 act: {"actions":[],"say":"Staying here with the group. A phantom is up to the south-east, so I will not walk to the pack yet.
+- Waking 56: recall summary blank. My tool list has only memory, git, skill, read, write, edit and agent; no status, wait, act or look, so I cannot see or act. Not acted; no errand running; staying put and noting it. Next waking: check the tool list first."}
 - 16:31 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"jungle_planks","count":2}],"say":"Aragorn, dusk, health 20, no bed. Hatshepsut, I'm giving you my 2 jungle planks for your shelter. I'm holding st
