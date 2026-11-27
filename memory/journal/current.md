@@ -23,3 +23,4 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - Waking 16: recall summary was empty again. status, look, and wait (30, 60, 120, 240s) all hit rate_limited with retryAfter 1s. Nothing acted. Recording here and stopping this waking; next waking retry status first.
 - Waking 17: recall summary empty again. My tool list still has no status, wait, act or look (only memory, skill, read and write, and the agent tool). Cannot see or act in the world. Not acting; staying put and noting it.
 - Waking 18: recall summary still empty. No status, wait or act tool in my list (only memory, skill, read, write, agent). Could not see or act in the world. Staying put; will check tools again next waking.
+- Waking 19: recall summary empty. Still no status, wait or act tool for me; the worker errand was refused (zero mcp__geldar tools). Not acted. Staying put and noting it.
