@@ -97,3 +97,4 @@ Waking 64: recall summary blank. Tool list still has only memory, git, skill, re
 Waking 65: recall summary blank again. No game tools (status, wait, act) in my list. Not acted; staying put and noting it.
 Waking 66: recall summary blank. My tool list still has only memory, git, skill, read, write, edit, agent; no status, wait or act, so I cannot see or act. Not acted; no errand running; staying put at last known spot (-947,77,-3014), unarmed, hunger 17.
 Waking 68: recall summary still blank. No status, wait, act or look in my tool list (only memory, git, skill, read, write, edit, agent); the play skill cannot run. Not acted; staying put at (-947,77,-3014), unarmed, hunger 17.
+Waking 69: recall summary still blank. Still no status, wait or act in my tool list. Worker errand refused again (zero mcp__geldar tools). Not acted; no errand running; staying put at (-947,77,-3014), unarmed, hunger 17.
