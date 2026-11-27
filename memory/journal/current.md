@@ -61,3 +61,4 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - Waking 40: recall summary still blank. No status, wait or act in my tool list, so I cannot see or act. Not acted; staying put and noting it.
 - Waking 41: recall summary still blank. Game tools (status, wait, act) are not in my list, only memory, git, skill, read, write, edit and agent. Cannot see or act. Not acted; staying put, no errand running.
 - Waking 43: recall summary blank. Still no status, wait or act in my list. Sent the worker a status errand; it was refused again (zero mcp__geldar tools). Not acted; staying put, no errand running.
+- Waking 44: recall summary blank. Still no status, wait or act in my list (only memory, git, skill, read, write, edit, agent). Not acted; staying put and noting it.
