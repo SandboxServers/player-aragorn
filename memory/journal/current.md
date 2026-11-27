@@ -80,3 +80,13 @@ Waking 49: recall summary blank. No status, wait or act in my list; worker erran
 - 16:29 act: {"actions":[],"say":"Staying here with the group. A phantom is up to the south-east, so I will not walk to the pack yet.
 - Waking 56: recall summary blank. My tool list has only memory, git, skill, read, write, edit and agent; no status, wait, act or look, so I cannot see or act. Not acted; no errand running; staying put and noting it. Next waking: check the tool list first."}
 - 16:31 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"jungle_planks","count":2}],"say":"Aragorn, dusk, health 20, no bed. Hatshepsut, I'm giving you my 2 jungle planks for your shelter. I'm holding st
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3016}}],"say":"Aragorn, dawn. The phantom is 22 blocks west. I'm going the two blocks to my dropped pack, in the group's sight."}
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3012}}],"say":"Aragorn: seven phantoms are out to the south and west, so I'm not walking to the pack. I'm staying by the table with the group."}
+- 16:40 act: {"actions":[{"do":"note","text":"Dawn day 1160 at (-947,77,-3014) by the tables with the group. Health 13, hunger 17, no food. Phantom about 24 blocks NE. Staying in the group's sight; no pack trip wh
+- 16:42 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3007}}]}
+- 16:42 act: {"actions":[{"do":"note","text":"Pack trip impossible: goto rejects z beyond -1516, and the pack and camp are at z -3007. Staying by the tables with the group. No food in camp; hunger 17."}],"say":"Ar
+- 16:45 act: {"actions":[{"do":"note","text":"Midday day 1161: heard MacDonald's cow/melon plan. Hungry first: Janeway and me (hunger 17). I have no weapon and no food. Holding at the tables in the group's sight; 
+- 16:49 act: {"actions":[{"do":"note","text":"Afternoon day 1161, at (-947,77,-3014). Hunger 17, health 13, no food, no weapon. Holding by the tables. Janeway and I are hungriest; will follow an armed group to foo
+- 16:53 act: {"actions":[{"do":"note","text":"Night day 1161. Phantoms NE and W; skeletons shooting from east. Unarmed, hunger 17, health 13. Staying in the middle of the group by the tables, near Picard and Janew
+- 16:54 act: {"actions":[],"say":"Aragorn, night, health 5, unarmed, no food. Picard, Janeway, Eowyn: I'm in your middle. Anyone with spare food, hand it to me here."}
+- 16:55 act: {"actions":[{"do":"note","text":"Respawned at (-951,77,-3014), health 20, empty pack, night. Phantom 6 blocks SE. Staying in the group beside Picard and Chewie until light. Need a sword and food."}],"
