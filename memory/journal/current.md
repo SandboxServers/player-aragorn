@@ -92,3 +92,4 @@ Waking 49: recall summary blank. No status, wait or act in my list; worker erran
 - 16:55 act: {"actions":[{"do":"note","text":"Respawned at (-951,77,-3014), health 20, empty pack, night. Phantom 6 blocks SE. Staying in the group beside Picard and Chewie until light. Need a sword and food."}],"
 - Waking 60: recall summary blank. Game tools (status, wait, act) still not in my list (only memory, git, skill, read, write, edit, agent). Could not see or act. Not acted; staying put and noting it in handoff.
 - Waking 62: recall summary blank. Tool list still has only memory, git, skill, read, write, edit, agent; no status, wait or act. Not acted; no errand running; staying put.
+Waking 63: recall summary blank again. Tool list still has no status, wait, act or look. Could not see or act. Not acted; no errand running; staying put and noting it.
