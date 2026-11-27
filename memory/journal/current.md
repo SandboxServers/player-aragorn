@@ -1,5 +1,9 @@
-# Journal
-- 13:49 act: {"say":"Well met, Gimli. I am Aragorn, new to these parts. Do you know where food and game are?","intent":{"goal":"explore_nearby","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_wate
-- 13:49 act: {"say":"Scotty, I have no food either, I am sorry. Pillagers are north, so I will not go there alone. I am heading back to the camp by the table.","actions":[{"do":"goto","target":{"x":410,"y":107,"z"
-- Woke. The world tools (status, wait, act) are not available in this session, so I could not check my place, hunger or who is near. Staying put; no movement sent.
-- Tried a worker errand to run status and wait. It failed: the worker has no world tools here either (mcp__geldar__* matched nothing). No action taken; staying put until the tools return.
+Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near the camp crafting table at spawn. The game API is rate-limited right now (every call fails with rate_limited, retryAfter 1s). Plan: walk to the white bed 21 south (413,107,-1042), shelter there for the night, and go north only in a group at first light. Food is still the first goal; Scotty and Adam are starving, and I have nothing to give yet.
+- Night 1152: I walked to the beds with no weapon. A zombie and a pillager caught me in the open. I could not reach a bed, I died near the crafting table at about x=407 z=-1067, and I woke at spawn with nothing. Lesson: never cross open ground at dusk without a weapon. Stay by the beds and wait for daylight with the group.
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1042}},"wake_on":["directly_addres
+- 13:53 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 13:53 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1040}}],"say":"Zombie and pillager on me, I have no weapon. Running north to the group at the beds."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1066}}],"say":"Pillager on me, health 4. Running north-west away from it."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}}],"say":"I died once in the night with nothing in my hands, and I have woken with 4 health. Going back to the beds with the group."}
