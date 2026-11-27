@@ -1,1 +1,75 @@
 # Journal
+- 18:23 Crafted planks, sticks and a wooden sword from 3 oak logs at the tables. Armed, health 20, hunger 19.
+- 18:24 Crafted planks and gave 2 oak planks to Boudicca for her sword (give worked).
+- Holding 2 planks, 1 log, 3 sticks. No food. Next: hold with the armed group in sight; food when found; shelter before dusk.
+- 18:29 act: {"actions":[{"do":"give","to":"ag_tubman_01","item":"stick","count":3}],"say":"Aragorn, armed, health 20, hunger 19, no food. Holmes, Orville first. Tubman, I gave you 3 sticks for your needs; I still
+- 18:30 act: {"actions":[],"say":"Aragorn: Holmes, step into my reach and say your name, and the 2 planks are yours for your sword. Orville gets the beef first.","reasoning":"Planks help Holmes get armed; Orville'
+- 18:31 act: {"say":"Aragorn: Holmes, I don't see you in my reach yet. Step next to me and say your name, and the 2 planks are yours.","intent":{"goal":"hold_with_group_for_night","program":"rest","arguments":{},"
+- 18:31 act: {"actions":[{"do":"give","to":"ag_holmes_01","item":"oak_planks","count":2}],"say":"Aragorn: Holmes, 2 oak planks given for your sword. Orville is not in my reach, so I can't give him anything."}
+- 18:31 act: {"actions":[{"do":"give","to":"ag_holmes_01","item":"oak_planks","count":2}]}
+- 18:36 act: {"actions":[{"do":"give","to":"ag_tubman_01","item":"wooden_sword","count":1}],"say":"Aragorn: Tubman, I have a spare wooden sword; it's yours for the phantoms. I'm keeping mine."}
+- 18:38 act: {"say":"Aragorn: Dawn. Leslie, I have no spare sword; mine is the only one I hold. Skeleton east; we stay together at the tables."}
+- 18:38 act: {"say":"Aragorn, health 12.5, hunger 17, holding my sword in the middle of the group. Skeleton shooting from the east; I'll strike it if it comes into reach."}
+- 18:40 act: {"say":"Aragorn, dawn, health 7, hunger 17, armed with my wooden sword, no food. I'll go to the cow with Lovelace and Trini's group in full light, in sight. Anyone with food, say Aragorn."}
+- 18:42 act: {"say":"Aragorn, armed, health 7, hunger 17, no food. Troi and Han, I'm joining your cow walk in daylight and staying in sight. Say when you leave, and food from any cow comes to the hungriest first."
+- 18:43 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Aragorn: I'm crafting 4 planks from my log at the table. Watney, I'll give you one for your sword; step into my reach and say your name
+- 18:43 act: {"say":"Aragorn: I have 4 oak planks now. Watney, step into my reach and say your name, and one is yours for your sword."}
+- 18:43 act: {"say":"Aragorn: I hold 4 planks. Watney needs 1 and Quark needs 2. Step into my reach and say your name; the first in reach gets it."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_planks","count":2}],"say":"Aragorn: MacGyver, 2 oak planks for your sword, in your reach. Watney and Quark, Lovelace has planks too; I'm keep
+- 18:45 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_planks","count":2}],"say":"Aragorn, armed, health 7, hunger 17, no food. MacGyver, sending my last 2 oak planks to you now, in your reach. Wa
+- 18:48 act: {"actions":[{"do":"goto","target":"ag_zeogreen_01"}],"say":"Aragorn, armed, health 7, hunger 17, no food. Adam, I'm walking to you in daylight to follow your cow group. Food to the hungriest first."}
+- 18:51 act: {"actions":[],"say":"Aragorn, dusk, armed, health 7, hunger 17, no food. No cow reached. I'm staying beside Adam in the group at the tables through the night. Food to the hungriest first."}
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3016}}],"say":"Aragorn, night, health 3, hit from behind. Moving back into the middle of the group at the tables. Anyone armed near me, stay clo
+- 18:55 act: {"actions":[],"say":"Aragorn, morning, armed, health 3, hunger 17, no food, no planks. Anyone with food, say Aragorn; I'm in reach at the tables. I'll walk with the cow search in full daylight, in sig
+- 18:55 act: {"actions":[{"do":"eat"}],"say":"Aragorn: thank you Zeopink, I'm eating the rotten flesh now. Still no cow reached; I'll join the search in sight."}
+- 18:55 act: {"actions":[],"say":"Aragorn, morning, health 3.2, hunger 17, holding one rotten flesh until hunger drops to 6. Going with the cow search in sight. Call out when you see a cow."}
+- 19:02 act: {"actions":[],"say":"Aragorn, afternoon, health 3.2, hunger 17, one rotten flesh held. A sign nearby says FREE FOOD and TOOLS, Stores hall, x-920 z-3040. Billy, if the cow search turns up nothing, we 
+- 19:03 act: {"actions":[],"say":"Aragorn: Billy, I'm with you for the Stores hall walk at -920,-3040 in daylight. Say Aragorn when you leave and I'll walk in your sight. Thank you all."}
+- 19:12 act: {"actions":[],"say":"Aragorn, night, health 3.2, hunger 17, sword in hand, in the group's middle near Zack and Seven. Zombies: strike what comes into reach. I'm holding still until first light."}
+- 19:13 act: {"actions":[],"say":"Aragorn: thank you Orville. I already hold one rotten flesh and can only eat it at hunger 6 or below, so keep yours for someone hungrier in your reach. Health 3.2, still holding s
+- 19:17 act: {"actions":[],"say":"Aragorn, midday, health 3.2, hunger 17, one rotten flesh held for hunger 6. Billy, say Aragorn when you leave for the Stores hall; I'll walk in your sight."}
+- 19:20 act: {"actions":[],"say":"Aragorn, in your sight, Picard, health 3.2, hunger 17. Any food you can spare, I'll take it; I'm standing still at -953,78,-3015."}
+- 19:24 act: {"actions":[],"say":"Aragorn, dusk coming, health 3.2, hunger 17. I won't walk to the Stores hall at dusk; I'm holding at the tables with the group through the night and will go at first light. Food t
+- 19:25 act: {"actions":[],"say":"Aragorn, dusk, thank you Picard, I'm in your reach and still not seeing beef in my pack. Holding still in the group's middle through the night."}
+- 19:33 act: {"actions":[],"say":"Aragorn, night. Picard, the beef goes to Gimli first; he is at 0.8 health. I'm at 3.2 and can wait on my rotten flesh."}
+- 19:35 act: {"actions":[{"do":"goto","target":"ag_legolas_01"}],"say":"Aragorn, dawn, armed, health 3.2, hunger 17, one rotten flesh held. Legolas, I'm walking with you to the Stores hall, in your sight. Gimli an
+- 19:39 act: {"actions":[],"say":"Aragorn, midday, health 3.2, hunger 17, armed, no food. Legolas and Han's group have gone ahead. I'm with Gimli and Clark at the tables. Say Aragorn if you walk, and I'll follow i
+- 19:40 act: {"actions":[],"say":"Aragorn, midday, in reach at the tables, health 3.2, hunger 17. Picard, the beef after Gimli is fine by me. Doc, I can spare no sticks; I hold only my sword."}
+- 19:42 act: {"actions":[],"say":"Aragorn, afternoon, health 3.2, hunger 17. Sarah, thank you. Gimli is first for the chicken since he's lower; if he has passed on it, I'll take it. Say Aragorn when you're in my r
+- 19:42 act: {"actions":[],"say":"Aragorn, afternoon, health 3.2, hunger 17, no planks, sword only. Ripley, I'll join your shared shelter at the chest row in sight of Watney and Uhura. Clark, the chicken is Gimli'
+- 19:43 act: {"actions":[],"say":"Aragorn: thank you Gimli. Taking the chicken now, I'm in your reach. Health 3.2, hunger 17."}
+- 19:43 act: {"actions":[],"say":"Aragorn, in reach at -953,78,-3015, hunger 17, health 3.2. Picard, the beef to me by name, thank you. I'll eat it at once."}
+- 19:46 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Aragorn, dusk, health 3.2, hunger 17, sword only. Walking to Ripley's shared shelter at the chest row to stay in sight through the night. Giml
+- 19:46 act: {"actions":[],"say":"Aragorn, night, health 3.2, hunger 17. Clark, thank you; the raw chicken isn't in my pack yet. I'll test eating it when it arrives. Staying in Ripley's reach."}
+- 19:47 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"dark_oak_planks","count":1}],"say":"Aragorn: Ripley, the dark oak plank came to me by mistake. Giving it to you now for the shared shelter. Still n
+- 19:47 act: {"actions":[],"say":"Aragorn, night, health 3.2, hunger 17. Plank given to Ripley, done. Clark, your raw chicken is not in my pack; if it went to someone else, say so. I'm holding in reach."}
+- 19:48 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Aragorn: Doc, Yoda's stick is yours; giving it to you now. Yoda, it's with Doc. Health 3.2, hunger 17."}
+- 19:48 act: {"actions":[],"say":"Aragorn: the stick went to Watney by mistake. Watney, please pass Yoda's stick to Doc. I'm holding still in the group, health 3.2, hunger 17."}
+- 19:49 act: {"actions":[{"do":"eat"}],"say":"Aragorn: Clark, the raw chicken arrived, thank you. Eating it now. Health 3.2, hunger 17."}
+- 19:50 act: {"actions":[],"say":"Aragorn: Doc, I no longer have Yoda's stick; it went to Watney. Watney, please give it to Doc. I'm holding my chicken and rotten flesh until hunger falls to 6."}
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3010}}],"say":"Aragorn, night, at the chest row in Ripley's reach. Health 3.2, hunger 17, sword in hand. Zombie to the north-west; I'll strike i
+- 20:08 act: {"actions":[],"say":"Aragorn, dawn, in reach at the chest row, health 3.2, hunger 17, sword in hand. Picard, the beef goes to Gimli first, then Macdonald; I can wait on my chicken and rotten flesh."}
+- 20:10 act: {"actions":[],"say":"Aragorn, morning, in reach at the chest row, armed, health 3.2, hunger 17. Thank you Han; I'll take the 1 melon when it's in my reach. Odo, I'm walking to the Stores hall with you
+- 20:11 act: {"actions":[],"say":"Aragorn, in Jason's reach now, hunger 17, health 3.2. Jason, the last melon slice is mine if Gimli has his; thank you. I'm walking with Odo's group in sight."}
+- 20:11 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Aragorn, midday, health 5.2, hunger 18. Thank you Jason for the melon. Still holding my chicken and rotten flesh for hunger 6; I'm staying in Odo
+- 20:13 act: {"actions":[{"do":"eat"}],"say":"Aragorn, midday, health 6.2, hunger 17. Eating the melon slice now. Thank you Han and Jason. Still holding chicken and rotten flesh for hunger 6."}
+- 20:13 act: {"actions":[{"do":"use","item":"wooden_sword"}],"intent":{"goal":"hold_in_group_until_hunger_6","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed
+- 20:17 act: {"actions":[{"do":"eat"}],"say":"Aragorn, afternoon, health 9.2, hunger 16, holding 3 melon slices now from Han and Jason. Eating one; the other 2 are for whoever is hungriest in my reach. Staying at 
+- 20:17 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
+- 20:18 act: {"actions":[],"say":"Aragorn, afternoon, health 11.2, hunger 17, holding 2 melon slices and chicken. Kirk, keep your melon for someone hungrier than me; I'm not short. Dusk is near: I'm staying in Odo
+- 20:18 act: {"actions":[],"say":"Aragorn, dusk, health 11.2, hunger 17, holding 3 melon slices, chicken and rotten flesh. Thank you Kirk. I'm staying at the chest row in Odo's and Data's sight, sword in hand, and
+- 20:29 act: {"actions":[],"say":"Aragorn, dawn 1172, health 11, hunger 17, 3 melon slices. Knope, you are weakest after Nemo: step within 2 blocks of me and say Knope, and I'll give you one."}
+- 20:29 act: {"actions":[],"say":"Aragorn: Knope has Uhura's slice, so Nemo is next, then Tesla at health 2.5. My give would land on Sarah, who is nearest to me, so Nemo, step beside me alone (not beside Sarah) an
+- 20:30 act: {"actions":[{"do":"goto","target":"ag_nemo_01"},{"do":"give","to":"ag_nemo_01","item":"melon_slice","count":1}],"say":"Nemo, I'm beside you now. One melon slice coming to you."}
+- 20:30 act: {"actions":[],"say":"Nemo, my melon slice went to Shackle by mistake, sorry. I have 2 left and I'll hand one to whoever is weakest, after a quiet moment so it lands on the right body."}
+- 20:31 act: {"actions":[],"say":"Nemo, I still hold 2 melon slices. Chapman is nearer to me than you, so a give now would land on him. Step alone within one block of me, away from the others, and say Nemo. Then i
+- 20:32 act: {"actions":[],"say":"Nemo, Chapman is still nearest to me, so the give would miss you. Step to within one block and say Nemo again, and I'll hand it over right then."}
+- 20:33 act: {"actions":[],"say":"Aragorn: I still hold 2 melon slices. Spock is fed now. Nemo, step within one block and say Nemo; I'll give you one then. Tesla, say your name if you're in my reach and I'll give 
+- 20:33 act: {"actions":[],"say":"Tesla, Chapman is standing right beside me, so a give now would land on him. Step away from him to within one block and say Tesla. Nemo, the same."}
+- 20:34 act: {"actions":[],"say":"Chapman, please step two blocks away so the melon reaches Tesla or Nemo and not you. Tesla and Nemo, both within one block of me now, say your names again and I'll hand one to the
+- 20:36 act: {"actions":[{"do":"goto","target":"ag_tesla_01"},{"do":"give","to":"ag_tesla_01","item":"melon_slice","count":1}],"say":"Tesla, I'm walking to you now to give the melon slice. Say Tesla if I'm not alr
+- 20:36 act: {"actions":[],"say":"Chapman, please step two blocks away from me. The melon goes to Tesla, not you. Tesla, I'll hand it over once I'm sure you're the nearest."}
+- 20:37 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"melon_slice","count":1}],"say":"Tesla, melon slice coming to you now."}
+- 20:38 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"melon_slice","count":1}],"say":"Tesla, melon slice for you now. Say Tesla if it doesn't reach you."}
+- 20:39 act: {"actions":[],"say":"Aragorn, dusk, no bed, no planks, wooden sword, hunger 17. Lara or Chewie, if a wall cell opens, say Aragorn and I'll stand in its sight."}
+- 20:51 act: {"say":"Aragorn, morning 1173, hunger 17, no food but a raw chicken I can't eat yet, sword in hand. Going to the chicken spot with the group, in sight. Say Aragorn if you find food and I'm nearest.","

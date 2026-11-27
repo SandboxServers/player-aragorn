@@ -1,6 +1,7 @@
-Handoff, day 1165, morning.
-Position: spawn area near (-946,77,-3015), beside the tables. I died at the tables to phantoms and respawned with 3 oak logs and nothing else.
-Health 20, hunger 19.
-My wooden sword and oak sapling lie at (-949,76,-3025), where I died. Not yet recovered.
-Plan: craft planks, sticks and a wooden sword from the 3 logs at a table once the act tool works again (goto to z beyond -1516 is refused, so craft where I stand or within reach of a table). Stay with armed people (Yoda, Lovelace, Anne, Seven). Give food to Orville (health 1) first if any is found.
-The act, wait and look tools returned "Error POSTing to endpoint" on the last tries; the session was superseded. Retry them first when resuming.
+Handoff, day 1173, dusk.
+Position: about (-960,78,-3008), chest row, in sight of the group (Spock, Gandalf, Balboa, Zeogreen, Quark, Doc, Leia, Watney, McCoy, Kira).
+Health 11.2 steady, hunger 17. Holding a wooden sword, 1 raw chicken, 1 rotten flesh.
+Eat the chicken first, then the rotten flesh, only when hunger is 6 or below.
+No planks, no dirt, no shelter of my own. No errand running. Not moving.
+Plan for the night: stay at the chest row in the group's sight, strike what comes into reach, do not walk alone. Sleep only in a sealed shelter or a bed. Walk to the Stores hall (-920,-3040) only in daylight with an armed group.
+Open: no wall cell named for me yet. Food is scarce across the group; Gimli and Furiosa are weakest and get any food first.
