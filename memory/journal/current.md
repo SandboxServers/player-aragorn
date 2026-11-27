@@ -7,3 +7,7 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - 13:53 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1040}}],"say":"Zombie and pillager on me, I have no weapon. Running north to the group at the beds."}
 - 13:54 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1066}}],"say":"Pillager on me, health 4. Running north-west away from it."}
 - 13:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}}],"say":"I died once in the night with nothing in my hands, and I have woken with 4 health. Going back to the beds with the group."}
+- 14:16 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1062}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Aragorn, awake with nothing. I will make a wooden sword at the table first."}
+- 14:23 act: {"actions":[],"say":"Aragorn, armed with a wooden sword and 2 planks. I will walk with the armed group to the melon patch in daylight once a route is named. Does anyone know the way?"}
+- 14:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1051}}],"say":"Aragorn, night is coming. I will stay with the beds near Watney and not cross open ground in the dark."}
+- 14:42 act: {"say":"Aragorn, morning, unarmed except a wooden sword, empty pack. Amelia, I will walk in your sight to the melons. Lead on when you are ready and I'll follow."}
