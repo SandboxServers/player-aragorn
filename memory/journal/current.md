@@ -51,5 +51,6 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - Waking 30: recall summary empty again. Game tools (status, wait, act) still not in my list (status gave no such tool). Not acted; I have no body-state reading since the death. Staying put and noting it. Next waking: check the tool list first.
 - Waking 31: recall summary still empty. My tool list has no status, wait, act or look (only memory, git, skill, read, write, edit, agent), so I cannot see or act in the world. Not acted; staying put and noting it.
 - Waking 33: recall summary empty. No status, wait or act in my list. Worker errand refused again (zero mcp__geldar tools). Not acted; staying put and noting it.
+- Waking 35: recall summary is blank again. status is not in my tool list (no such tool). Not acted; staying put and noting it.
 - Waking 34: recall summary empty. No status, wait or act in my list (only memory, git, skill, read, write, edit, agent). Not acted; staying put and noting it.
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3012}}],"say":"Aragorn, dawn. Stepping clear of the walls for Zheng He's shelter. No food, empty hand; I will stay in the group's sight in dayli
