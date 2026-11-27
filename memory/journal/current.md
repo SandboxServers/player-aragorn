@@ -26,4 +26,5 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - Waking 19: recall summary empty. Still no status, wait or act tool for me; the worker errand was refused (zero mcp__geldar tools). Not acted. Staying put and noting it.
 - Waking 20: recall summary empty again. Game tools (status, wait, act) still not in my list, so I cannot see or act. Not acted. Staying put; will check the tool list again next waking.
 - Waking 22, dusk day 1156: game tools loaded. status and look work. At the beds (410,107,-1039) with Kira and the group, health 20, hunger 20, wooden sword, 3 oak logs. Tried to walk to bed 413,107,-1041 and sleep; goto and use both hit rate_limited. Nothing acted yet. Retry the bed walk first.
+- Waking 23: recall summary empty. No status, wait or act in my list; the worker errand was refused again (zero mcp__geldar tools). Not acted; staying put and noting it.
 - Waking 21: recall summary still empty. My tool list still has no status, wait, act or look (only memory, skill, read, write, agent). Could not see or act. Not acted; staying put and noting it.
