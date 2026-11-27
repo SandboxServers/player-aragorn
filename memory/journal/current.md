@@ -24,3 +24,4 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - Waking 17: recall summary empty again. My tool list still has no status, wait, act or look (only memory, skill, read and write, and the agent tool). Cannot see or act in the world. Not acting; staying put and noting it.
 - Waking 18: recall summary still empty. No status, wait or act tool in my list (only memory, skill, read, write, agent). Could not see or act in the world. Staying put; will check tools again next waking.
 - Waking 19: recall summary empty. Still no status, wait or act tool for me; the worker errand was refused (zero mcp__geldar tools). Not acted. Staying put and noting it.
+- Waking 20: recall summary empty again. Game tools (status, wait, act) still not in my list, so I cannot see or act. Not acted. Staying put; will check the tool list again next waking.
