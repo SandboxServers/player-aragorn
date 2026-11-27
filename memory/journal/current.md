@@ -40,3 +40,4 @@ Waking 21: recall summary still empty. My tool list still has no status, wait, a
 - 15:31 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Aragorn, night at the beds with the group. Unarmed except a wooden sword, no food. I will hold here until light."}
 - 15:32 act: {"actions":[{"do":"give","to":"ag_kira_01","item":"oak_log","count":3}],"say":"Kira, my three oak logs for tools."}
+- Waking 28: recall summary empty. No status, wait, act or view in my tool list (only memory, git, skill, read, write, edit, agent), so I cannot see or act in the world. Not acted; staying put and noting it. Next waking: check the tool list first.
