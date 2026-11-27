@@ -29,3 +29,4 @@ Waking 4. Dusk, day 1152. Empty pack, hunger full, health steady. Standing near 
 - Waking 23: recall summary empty. No status, wait or act in my list; the worker errand was refused again (zero mcp__geldar tools). Not acted; staying put and noting it.
 - Waking 24: recall summary still empty. No status, wait or act in my list; worker errand refused again (zero mcp__geldar tools). Not acted; staying put and noting it.
 Waking 21: recall summary still empty. My tool list still has no status, wait, act or look (only memory, skill, read, write, agent). Could not see or act. Not acted; staying put and noting it.
+- Waking 25: recall summary empty again. The play skill needs status and wait, and I have neither in my tool list (only memory, skill, read, write, agent). Not acted; staying put. Next waking: check the tool list first.
