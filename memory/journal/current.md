@@ -148,3 +148,5 @@
 - 04:06 say: {"text":"Aragorn, morning 1195, hunger 17. Worf, still no checked daylight route to 415,107,-1051 from me. Hungriest first; I wait at the row."}
 - 04:14 say: {"text":"Aragorn, morning 1195, hunger 17, health 16. Zheng He, when the crowd clears I ask you for one bread. Trini, I am under your melon line, lowest first."}
 - 04:22 say: {"text":"Aragorn, dusk 1195, hunger 17, health 16. No food reached me today, so I stay at the row in sight, and I go to bed here."}
+- 04:23 say: {"text":"Aragorn, dusk 1195. Health 16, hunger 17. Staying at the bed row in the group's sight for the night. Trini, I will ask for one melon by name at morning if I am still lowest and alone."}
+- 04:26 say: {"text":"Worf, Aragorn here, midday 1196, hunger 17. I still have no checked daylight route to 415,107,-1051, so I cannot name one. Trini, I am waiting for one melon when I stand alone with you."}
