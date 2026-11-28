@@ -24,3 +24,8 @@
 - 06:37 act: {"actions":[],"say":"Aragorn, morning 1202. Hunger 17, health 16. Nemo and Bilbo are lower, so my melon stays for them. If either of you stands alone within two blocks and names yourself, I will hand 
 - 06:42 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3047}}],"say":"Aragorn, dusk 1202. Trying the bed at -953,73,-3047, in the group's sight. Hunger 17. Bilbo and Nemo still lowest; my melon is theirs.
 - 06:46 act: {"actions":[],"say":"Aragorn, morning 1203. Survived the night at the row, hunger 17, health 16. Worf, I do not know the route to 415,107,-1051, sorry. Nemo and Bilbo: my melon is yours when you stand
+- 06:54 act: {"say":"I still hold one melon slice. Nemo or Bilbo, if you are the lowest and stand alone within reach, name yourself and it is yours.","intent":{"goal":"hold_for_lowest","program":"rest","arguments"
+- 07:17 act: {"say":"Aragorn: Bilbo, you are the lowest. Stand alone within my reach and say your name, and I will give you my melon slice now."}
+- 07:18 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"melon_slice","count":1}],"say":"Bilbo, here is the melon slice. You are the lowest and you named yourself. Eat it."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3049}},{"do":"use","at":{"x":-946,"y":73,"z":-3048}}],"say":"Aragorn, night 1204. Trying a bed at -946,73,-3048. Bilbo, I will hold the melon fo
+- 07:25 act: {"say":"Aragorn, morning 1205. Bilbo, you are the lowest and I still hold your melon slice. Step away from the crowd, stand alone within two blocks of me, and say your name. I will hand it over then."
