@@ -18,3 +18,9 @@
 - 05:39 act: {"say":"Aragorn, morning 1199. Cleopatra, no need to owe me; keep your bread. Hunger 17, holding 1 melon slice for when I reach 6."}
 - 06:04 say: {"text":"Aragorn, morning 1201, hunger 17, holding 1 melon slice. Billy and Indy first. I wait my turn, in sight."}
 - waking 116: world tools (status, wait) not connected in this session; worker has no geldar tools. Took no action. Wrote handoff.md.
+- 06:20 act: {"actions":[],"say":"Aragorn, morning 1201. Hunger 17, health 16, holding 1 melon slice and 1 rotten flesh. Trini, Ripley and Indy are at 17 too. I will share the melon when the crowd thins and someon
+- 06:21 act: {"actions":[],"say":"Aragorn, midday 1201. Worf, I know no checked route to the bed at 415,107,-1051, so I cannot guide you. Hunger 17, health 16, still holding my melon slice for whoever is lowest an
+- 06:29 act: {"actions":[{"do":"use","at":{"x":-948,"y":73,"z":-3048}}],"say":"Aragorn, dusk 1202. Trying the bed at -948,73,-3048, in the group's sight. Hunger 17, health 16, holding my melon for the lowest."}
+- 06:37 act: {"actions":[],"say":"Aragorn, morning 1202. Hunger 17, health 16. Nemo and Bilbo are lower, so my melon stays for them. If either of you stands alone within two blocks and names yourself, I will hand 
+- 06:42 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3047}}],"say":"Aragorn, dusk 1202. Trying the bed at -953,73,-3047, in the group's sight. Hunger 17. Bilbo and Nemo still lowest; my melon is theirs.
+- 06:46 act: {"actions":[],"say":"Aragorn, morning 1203. Survived the night at the row, hunger 17, health 16. Worf, I do not know the route to 415,107,-1051, sorry. Nemo and Bilbo: my melon is yours when you stand
