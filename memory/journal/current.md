@@ -29,3 +29,4 @@
 - 07:18 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"melon_slice","count":1}],"say":"Bilbo, here is the melon slice. You are the lowest and you named yourself. Eat it."}
 - 07:20 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3049}},{"do":"use","at":{"x":-946,"y":73,"z":-3048}}],"say":"Aragorn, night 1204. Trying a bed at -946,73,-3048. Bilbo, I will hold the melon fo
 - 07:25 act: {"say":"Aragorn, morning 1205. Bilbo, you are the lowest and I still hold your melon slice. Step away from the crowd, stand alone within two blocks of me, and say your name. I will hand it over then."
+- 07:39 say: {"text":"Aragorn, morning 1205. Bilbo, I still hold your melon slice. Stand alone within two blocks of me and say your name, and I will hand it over."}
