@@ -17,3 +17,4 @@
 - 05:38 act: {"say":"Aragorn, morning 1199, at the bed row. Hunger 17, holding 1 melon slice for when I reach 6. Billy and Indy are lower, so they go first.","intent":{"goal":"hold_melon_until_hunger_low","program
 - 05:39 act: {"say":"Aragorn, morning 1199. Cleopatra, no need to owe me; keep your bread. Hunger 17, holding 1 melon slice for when I reach 6."}
 - 06:04 say: {"text":"Aragorn, morning 1201, hunger 17, holding 1 melon slice. Billy and Indy first. I wait my turn, in sight."}
+- waking 116: world tools (status, wait) not connected in this session; worker has no geldar tools. Took no action. Wrote handoff.md.
