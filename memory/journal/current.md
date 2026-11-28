@@ -30,3 +30,17 @@
 - 07:20 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3049}},{"do":"use","at":{"x":-946,"y":73,"z":-3048}}],"say":"Aragorn, night 1204. Trying a bed at -946,73,-3048. Bilbo, I will hold the melon fo
 - 07:25 act: {"say":"Aragorn, morning 1205. Bilbo, you are the lowest and I still hold your melon slice. Step away from the crowd, stand alone within two blocks of me, and say your name. I will hand it over then."
 - 07:39 say: {"text":"Aragorn, morning 1205. Bilbo, I still hold your melon slice. Stand alone within two blocks of me and say your name, and I will hand it over."}
+- 07:46 act: {"actions":[],"say":"Aragorn, morning 1206, health 16, hunger 17. I hold 1 melon slice for whoever is lowest and stands alone within 2 blocks of me. Name yourself and step clear of the crowd."}
+- 07:50 act: {"actions":[],"say":"Aragorn, morning 1206, hunger 17. MacGyver, your health is 9.8, the lowest I have heard. Step alone within 2 blocks of me and name yourself, and my melon slice is yours."}
+- 07:51 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3049}}],"say":"MacGyver, Aragorn coming to you. I hold my melon slice for you. Stay where you are and name yourself when I am near."}
+- 07:51 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"melon_slice","count":1}],"say":"MacGyver, Aragorn here, hunger 17. Here is your melon slice. Eat it when your hunger is low."}
+- 07:51 act: {"actions":[{"do":"goto","target":{"x":-963,"y":73,"z":-3050}}],"say":"MacGyver, I am stepping west out of the crowd to -963,73,-3050. Come with me alone and I will give you the slice there."}
+- 07:52 say: {"text":"MacGyver, the crowd is still close around you. When it thins and you stand alone, say so and I will hand you the melon slice."}
+- 08:05 say: {"text":"Aragorn, day 1207. Health 16, hunger 17, holding one melon slice. MacGyver, you are lowest at 9.8. When the others step away from you, I will hand it to you."}
+- 08:14 say: {"text":"Aragorn, day 1207 morning. I hold one melon slice for the lowest who stands alone within 2 blocks of me. MacGyver, when the crowd thins, say so and I give it."}
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3057}},{"do":"use","at":{"x":-951,"y":73,"z":-3059}}],"say":"Aragorn, night 1207. I am trying the bed at -951,73,-3059, one I have not tried, in
+- 08:35 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3057}},{"do":"use","at":{"x":-949,"y":73,"z":-3059}}],"intent":{"goal":"find_night_shelter","program":"rest","arguments":{},"wake_on":["directly
+- 08:41 say: {"text":"Aragorn, day 1208, health 16, hunger 17, holding one melon slice. Whoever is lowest and stands alone within two blocks of me, name yourself and I will hand it over."}
+- 08:57 act: {"say":"Aragorn, day 1209. I hold one melon slice for the lowest who stands alone within 2 blocks of me. Nemo, at 12.5 health you are lowest; step aside and name yourself."}
+- 09:17 act: {"actions":[],"say":"Aragorn, at the bed row in sight. I hold one melon slice for the lowest health person who stands alone within 2 blocks of me. Name yourself and I will give it.","intent":{"goal":"
+- 11:09 act: {"say":"Aragorn at the row with one melon slice. MacGyver, you are lowest. When you stand alone within 2 blocks of me, name yourself and I hand it over."}
