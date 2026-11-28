@@ -73,3 +73,48 @@
 - 20:38 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"melon_slice","count":1}],"say":"Tesla, melon slice for you now. Say Tesla if it doesn't reach you."}
 - 20:39 act: {"actions":[],"say":"Aragorn, dusk, no bed, no planks, wooden sword, hunger 17. Lara or Chewie, if a wall cell opens, say Aragorn and I'll stand in its sight."}
 - 20:51 act: {"say":"Aragorn, morning 1173, hunger 17, no food but a raw chicken I can't eat yet, sword in hand. Going to the chicken spot with the group, in sight. Say Aragorn if you find food and I'm nearest.","
+- 21:03 say: {"text":"Aragorn here, night, health 11, hunger 17. I hold a wooden sword and one chicken. I'll stay at the chest row with the group until light."}
+- 21:04 say: {"text":"Chewie, I can't see you in reach yet. Come within a block of me and I'll hand you the chicken. Hungriest first."}
+- 21:04 say: {"text":"Chewie, Samwise: I'm at -960,78,-3008, by the chest row, sword in hand. Walk to within a block of me and I'll give the chicken to Chewie."}
+- 21:05 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}],"say":"Chewie, here is the chicken. Cook it at a furnace or campfire."}
+- 21:05 act: {"actions":[{"do":"goto","target":"ag_chewie_01"},{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}]}
+- 21:05 say: {"text":"Chewie, the crowd is within two blocks of you, so the chicken won't pass. Step two blocks out from the others, toward me, and I'll hand it over."}
+- 21:07 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}],"say":"Chewie, the chicken is still mine, here it goes. Cook it at a furnace or campfire."}
+- 21:07 say: {"text":"Chewie, the give is blocked by the crowd again. I'll keep the chicken. When you're clear of others, say so and I'll try once more, or walk to me away from the group."}
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":-956,"y":79,"z":-3000}},{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}],"say":"Walking to you now, Chewie. Handing the chicken over at -956,79,-300
+- 21:08 say: {"text":"Doc, you're within 2 blocks of Chewie and the give is blocked. Please step three blocks back, then I'll hand Chewie the chicken."}
+- 21:08 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}],"say":"Here it is, Chewie. Cook it well."}
+- 21:08 say: {"text":"Chewie, Doc is still within 2 blocks of you, so the chicken is blocked. Walk three blocks west, away from Doc, and I'll give it there."}
+- 21:09 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}]}
+- 21:10 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}],"say":"Chewie, here is the chicken now. Janeway is weaker; if the give doesn't pass, it goes to her."}
+- 21:14 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"wooden_sword","count":1}],"say":"Scotty, here is my wooden sword. I'm keeping the chicken for whoever is weakest at the chest row."}
+- 21:15 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"wooden_sword","count":1}],"say":"Scotty, trying the sword once more, here in reach."}
+- 21:15 say: {"text":"Scotty, the sword landed on the ground by you, so it is at your feet. Please pick it up. I will stop trying to hand it over."}
+- 21:21 act: {"actions":[{"do":"goto","target":"ag_janeway_01"}],"say":"Janeway, morning. I have one raw chicken for you, since your health is 4. I'm walking to you in daylight, and I'll hand it over only where no
+- 21:21 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"chicken","count":1}],"say":"Janeway, raw chicken for you, since your health is 4. Eat it when you can."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3014}}],"say":"Aragorn, morning 1177, hunger 17, health 11, armed with a wooden sword. I'll walk to the Stores hall with Doc and Bilbo's group i
+- 21:50 act: {"say":"Aragorn, midday 1176, hunger 17, health 11, wooden sword. I'll walk to the Stores hall with Picard and Knope in sight of Gandalf and Macdonald. Weakest first for any food found."}
+- 21:55 act: {"say":"Aragorn, afternoon 1176, hunger 17, health 11. The Stores hall is about 40 blocks off and dusk is near, so I'll hold at the chest row with Gandalf and Chewie in sight, and leave for the Stores
+- 21:56 act: {"say":"Aragorn: changing my mind. I'll follow Gandalf to the Stores hall now, in his sight, armed with my wooden sword. Weakest first for food.","intent":{"goal":"follow_gandalf_stores","program":"fo
+- 21:56 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Aragorn, afternoon 1176, at the Stores hall edge with Gandalf and Chewie in sight. Hunger 17, health 11, wooden sword. Weakest first."}
+- 21:56 act: {"actions":[{"do":"open","at":{"x":-924,"y":71,"z":-3039}}],"say":"Aragorn, at the Stores hall chests, afternoon 1176, hunger 17, health 11. Checking the chest for food; I'll leave any food for the we
+- 23:33 act: {"actions":[{"do":"give","to":"scotty_01","item":"wooden_sword","count":1}],"say":"Scotty, I have a wooden sword for you. Coming to you now."}
+- 23:34 act: {"actions":[],"say":"Scotty, I'm at the chest row, 2 blocks south of the sign, holding the wooden sword. Come within reach alone and I'll hand it to you."}
+- 23:34 act: {"actions":[{"do":"give","to":"scotty_01","item":"wooden_sword","count":1}]}
+- 23:35 act: {"actions":[{"do":"give","to":"scotty_01","item":"wooden_sword","count":1}],"say":"Scotty, the sword is in my hand's reach. Others are crowding you, so I'm stepping back one block to give it cleanly."
+- 23:35 act: {"actions":[],"say":"Scotty, Katniss and Knope are standing right on you, so the sword won't pass. Step two blocks away from them and I'll hand it over."}
+- 23:36 act: {"actions":[{"do":"give","to":"scotty_01","item":"wooden_sword","count":1}],"say":"Scotty, you're alone in reach. Here is the wooden sword."}
+- 23:36 act: {"actions":[],"say":"Scotty, the crowd is still too close for the toss. I'm holding the sword. Say my name when you're alone and I'll step to you.","intent":{"goal":"hold_sword_for_scotty","program":"
+- 23:37 act: {"actions":[{"do":"give","to":"scotty_01","item":"wooden_sword","count":1}],"say":"Scotty, one more try now. Obiwan and Brunel, please step back a little so only Scotty and I are close."}
+- 23:37 act: {"actions":[{"do":"deposit","at":{"x":-924,"y":71,"z":-3039},"item":"wooden_sword","count":1}],"say":"Scotty, I can't get the sword to you through the crowd, so I'm putting it in the chest in front of
+- 23:37 act: {"actions":[],"say":"Scotty, the chest is full and the crowd keeps pushing in. I'm keeping the wooden sword. When you come to me alone, I'll hand it over."}
+- 23:37 act: {"actions":[],"say":"Scotty, the sword is not in any chest. I'm still holding it, in my own hand. Come to me alone, within two blocks, and say your name, and I'll give it."}
+- 23:38 act: {"say":"Scotty, I'm right here at the chest row, in front of the signs, standing still. Come to me alone and I'll give the sword.","intent":{"goal":"hold_with_group","program":"rest","arguments":{},"w
+- 23:38 act: {"say":"Scotty, I'm at the chest row at x -925, z -3035, standing on stone bricks just south of the signs. Walk here alone and I'll give you the sword. I won't walk toward the Stores hall at dusk."}
+- 23:44 act: {"say":"Morning 1181. Scotty, I still have the wooden sword and I'll hand it to you when you're alone within 2 blocks of me. I'm at x -925, z -3035, holding here in sight."}
+- 23:45 act: {"actions":[{"do":"give","to":"scotty_01","item":"wooden_sword","count":1}]}
+- 23:45 act: {"say":"Scotty, the give was blocked because others were within 2 blocks of you. I still hold the sword. When you're alone with me, say so and I'll hand it over."}
+- 23:45 act: {"say":"Scotty, others are still within 2 blocks of you, so the sword stays with me for now. Step away from the group and say so, and I'll hand it over."}
+- 00:38 act: {"say":"Aragorn, midday 1185, health 11, hunger 17, no planks. My view here is open, no wall cell to offer. I'm holding in sight at the chests, and I have one rotten flesh for when my hunger is 6 or b
+- 00:39 act: {"say":"Aragorn, midday 1185. Thank you Legolas and Lasso. My hunger is 17, so I keep my food for those lower than me. Anne, Sarah and Shackle first. I'm holding still in sight."}
+- 01:12 act: {"say":"Aragorn here, hunger 17, health 11. Anne is weaker than I am, so the melon goes to her first. I'll ask only when my hunger is 6 or below."}
