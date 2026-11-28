@@ -121,3 +121,30 @@
 - 01:58 act: {"say":"Aragorn, hunger 17, no food but rotten flesh. Lovelace, could you spare your bread? I can give a wooden sword's worth of help or my rotten flesh in return if you need it.","actions":[]}
 - 01:59 act: {"say":"Thank you, Lovelace. I will name myself alone in your reach when my hunger drops under 15.","actions":[]}
 - 02:27 act: {"actions":[],"say":"Aragorn here, dusk 1190, hunger 17, health 11.2. Staying at the chests with the group. Lovelace, when I drop under 15 I'll name myself alone in your reach.","intent":{"goal":"hold
+- 02:42 act: {"say":"Aragorn, morning. Hunger 17, nothing to eat but one rotten flesh. Cleopatra, when you can spare bread, I would be grateful, once I am under 15."}
+- 02:42 act: {"say":"Aragorn, hunger 17, health 11. Trini, thank you. Billy is at 19 and Hatshepsut at 19, so I'll hold my name until they are fed; I'll say it again if I drop under 15."}
+- 02:43 act: {"say":"Aragorn, hunger 17. Sattler, yes, I accept one melon slice. I'll say my name once I am two blocks clear of the crowd; please hand it over then. Thank you."}
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3044}}],"say":"Aragorn, hunger 17, two blocks clear. Trini or Sattler, whoever is near with melon, I am here alone."}
+- 02:57 act: {"actions":[{"do":"eat"}],"say":"Aragorn, here alone at hunger 17. Thank you Florence and Ellie. Ellie, I will take the melon when you come within reach."}
+- 03:01 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf, Aragorn here, hunger 17, alone. I am coming to your reach. I have not checked a bed route yet; I will not go far."}
+- 03:01 act: {"actions":[],"say":"Worf, Aragorn, hunger 17, alone in your reach. Please give me one melon."}
+- 03:05 act: {"actions":[{"do":"eat"}],"say":"Thank you, Worf. I am eating a melon slice now and staying here in the row's sight."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3045}}],"say":"Going to the bed row now to sleep, in sight of the group. Worf, thank you."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3046}}]}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3047}},{"do":"sleep"}]}
+- 03:09 act: {"actions":[{"do":"eat"}],"say":"Aragorn, morning 1193. Slept at the row, health 14, hunger 16. Eating my last melon slice. Nothing to spare; I still hold 1 rotten flesh for when I am alone at 6 or be
+- 03:17 act: {"say":"Aragorn, hunger 17, health 16, no food but one rotten flesh I keep for 6. Trini, when the crowd thins and you're alone with me, one melon slice when you can spare it. I'm holding here in sight
+- 03:29 act: {"say":"Clark, Aragorn here, hunger 17, health 16. Nemo and Bilbo are first for your melon, I know. When you are alone with me, I'll take one slice after them. I'm holding in your sight."}
+- 03:34 act: {"say":"Aragorn, morning 1193, hunger 17, health 16. Clark, when you are alone with me, I ask for one melon slice."}
+- 03:37 act: {"say":"Aragorn, morning 1194, hunger 17, health 16. Zheng He, you hold bread: when I stand alone with you, I'll ask for one. Worf, I have not checked a daylight route to 415,107,-1051 yet; I will not
+- 03:41 act: {"actions":[{"do":"goto","target":"ag_zhenghe_01"}],"say":"Zheng He, Aragorn coming to you alone now, hunger 17. Please hand me one bread when the others are two blocks off."}
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":-941,"y":73,"z":-3044}}],"say":"Aragorn stepping off the row to the east, alone, hunger 17. Zheng He, come to me and hand the bread when no one is within two blo
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}}],"say":"Aragorn heading to the bed at -945,73,-3047 for the night, hunger 17, health 16. Zheng He, I will ask for the bread at morning, a
+- 03:46 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3047}}],"say":"Aragorn in bed at the row for the night, hunger 17. Morning: I will ask for one food, alone and named."}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":-942,"y":73,"z":-3044}}],"say":"Aragorn, hunger 17, standing alone east of the row. Zheng He, if you are alone with me, I ask for one bread."}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3047}},{"do":"use","at":{"x":-946,"y":73,"z":-3047}}],"say":"Aragorn going to bed at the row, hunger 17. Zheng He, I will ask for the bread in t
+- 03:49 act: {"actions":[],"say":"Aragorn, hunger 17, I have not walked a daylight route to 415,107,-1051, so I cannot name one, Worf. Hungriest first; I wait for my turn."}
+- 03:58 say: {"text":"Aragorn, hunger 17, still at the row. Zheng He, when you are alone with me, I will ask for one bread."}
+- 04:06 say: {"text":"Aragorn, morning 1195, hunger 17. Worf, still no checked daylight route to 415,107,-1051 from me. Hungriest first; I wait at the row."}
+- 04:14 say: {"text":"Aragorn, morning 1195, hunger 17, health 16. Zheng He, when the crowd clears I ask you for one bread. Trini, I am under your melon line, lowest first."}
+- 04:22 say: {"text":"Aragorn, dusk 1195, hunger 17, health 16. No food reached me today, so I stay at the row in sight, and I go to bed here."}
