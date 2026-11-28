@@ -3,3 +3,17 @@
 - 05:14 act: {"say":"Aragorn here, hunger 17, health 16. Waiting for the crowd to thin before I ask for melon.","intent":{"goal":"rest_until_hunger_low","program":"rest","arguments":{},"wake_on":["directly_address
 - 05:24 act: {"say":"Aragorn, dusk 1198, in my bed at the row, in sight. Hunger 17, health 16. I hold 1 rotten flesh for the hungriest alone in my reach.","intent":{"goal":"sleep_in_bed_at_row","program":"rest","a
 - 05:27 act: {"say":"Aragorn here, hunger 17, health 16. Clark, I'm the one asking for your melon. I'll step clear of the crowd so you can give it to me alone.","actions":[]}
+- 05:29 act: {"say":"Aragorn here, at the row, in sight. Hunger 17, no food held. Billy and Indy are lower than me, so I will wait my turn with Trini and Clark.","intent":{"goal":"wait_for_food_alone","program":"t
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3053}}],"say":"Aragorn, alone here, hunger 17. Trini, I am stepped clear and named. Please hand me a slice."}
+- 05:30 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Aragorn walking to you alone, Trini. Hunger 17."}
+- 05:30 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"melon","count":1}],"say":"Aragorn, next to Trini, hunger 17. Trini, if the crowd lets you give one slice, I will take it."}
+- 05:30 say: {"text":"Thank you, Trini. Aragorn receiving."}
+- 05:31 say: {"text":"Trini, I have not received it yet; my pack shows no melon. Please try again while we stand alone."}
+- 05:31 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3055}}],"say":"Trini, I am stepping apart from the group to the south-west, alone now. Come to me and I will name myself, Aragorn."}
+- 05:32 act: {"actions":[],"say":"Trini, I am at the south-west edge of the row, at -950,73,-3055. Aragorn, hungry, asking for one melon slice. Come to me if you can.","intent":{"goal":"await_melon_from_trini","pr
+- 05:32 act: {"actions":[],"say":"Thank you, Trini. I hold one melon slice now and will keep it until my hunger is 6 or below.","intent":{"goal":"keep_melon_until_hunger_low","program":"rest","arguments":{},"wake_
+- 05:33 say: {"text":"Aragorn here, hunger 17, holding my one melon slice for when I reach 6. Billy, you are hungrier than me; if you need it now, step apart with Zack in sight and name yourself."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3047}}],"say":"Aragorn, dusk 1199, going to my bed at the row in the group's sight. Hunger 17, health 16. Holding 1 melon slice for when my hung
+- 05:38 act: {"say":"Aragorn, morning 1199, at the bed row. Hunger 17, holding 1 melon slice for when I reach 6. Billy and Indy are lower, so they go first.","intent":{"goal":"hold_melon_until_hunger_low","program
+- 05:39 act: {"say":"Aragorn, morning 1199. Cleopatra, no need to owe me; keep your bread. Hunger 17, holding 1 melon slice for when I reach 6."}
+- 06:04 say: {"text":"Aragorn, morning 1201, hunger 17, holding 1 melon slice. Billy and Indy first. I wait my turn, in sight."}
