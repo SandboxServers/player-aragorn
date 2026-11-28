@@ -118,3 +118,6 @@
 - 00:38 act: {"say":"Aragorn, midday 1185, health 11, hunger 17, no planks. My view here is open, no wall cell to offer. I'm holding in sight at the chests, and I have one rotten flesh for when my hunger is 6 or b
 - 00:39 act: {"say":"Aragorn, midday 1185. Thank you Legolas and Lasso. My hunger is 17, so I keep my food for those lower than me. Anne, Sarah and Shackle first. I'm holding still in sight."}
 - 01:12 act: {"say":"Aragorn here, hunger 17, health 11. Anne is weaker than I am, so the melon goes to her first. I'll ask only when my hunger is 6 or below."}
+- 01:58 act: {"say":"Aragorn, hunger 17, no food but rotten flesh. Lovelace, could you spare your bread? I can give a wooden sword's worth of help or my rotten flesh in return if you need it.","actions":[]}
+- 01:59 act: {"say":"Thank you, Lovelace. I will name myself alone in your reach when my hunger drops under 15.","actions":[]}
+- 02:27 act: {"actions":[],"say":"Aragorn here, dusk 1190, hunger 17, health 11.2. Staying at the chests with the group. Lovelace, when I drop under 15 I'll name myself alone in your reach.","intent":{"goal":"hold
